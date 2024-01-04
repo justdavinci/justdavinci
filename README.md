@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, você pode me chamar de JustDaVinci! 👋
 
-<!--
-**justdavinci/justdavinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SOU APAIXONADO POR CONHECIMENTO, por isso o "DaVinci". Uma referência a um dos meus
+grandes ídolos.
 
-Here are some ideas to get you started:
+- INTERESSES GERAIS:
+- ⚕️ Medicina Geral
+- 🧠 Neurofisiologia
+- 🧬 Biologia Celular
+- 👨‍🔬 TECNOLOGIA APLICADA A CIÊNCIA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ PROGRAMAÇÃO
+Atualmente me encontro na fase inicial de aprendizagem de Python, linguagem na qual busco
+domínio em:
+- Criação de BOTS
+- Desenvolvimento de SaaS
+- Inteligência Artificial
