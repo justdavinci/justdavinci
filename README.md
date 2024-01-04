@@ -3,13 +3,13 @@
 SOU APAIXONADO POR CONHECIMENTO, por isso o "DaVinci". Uma referência a um dos meus
 grandes ídolos.
 
-- INTERESSES GERAIS:
+## INTERESSES GERAIS:
 - ⚕️ Medicina Geral
 - 🧠 Neurofisiologia
 - 🧬 Biologia Celular
 - 👨‍🔬 TECNOLOGIA APLICADA A CIÊNCIA
 
-- 🖥️ PROGRAMAÇÃO
+## 🖥️ PROGRAMAÇÃO
 Atualmente me encontro na fase inicial de aprendizagem de Python, linguagem na qual busco
 domínio em:
 - Criação de BOTS
