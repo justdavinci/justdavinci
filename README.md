@@ -10,8 +10,8 @@ grandes ídolos.
 - 👨‍🔬 TECNOLOGIA APLICADA A CIÊNCIA
 
 ## 🖥️ PROGRAMAÇÃO
-Atualmente me encontro na fase inicial de aprendizagem de Python, linguagem na qual busco
+🐍Python | 💻Typescript/Javascript
 domínio em:
-- Criação de BOTS
-- Desenvolvimento de SaaS
-- Inteligência Artificial
+- 🤖 Criação de BOTS
+- 🎬 Desenvolvimento de SaaS
+- 🧠Inteligência Artificial
