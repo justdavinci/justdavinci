@@ -11,7 +11,7 @@ grandes ídolos.
 
 ## 🖥️ PROGRAMAÇÃO
 🐍Python | 💻Typescript/Javascript
-domínio em:
+
 - 🤖 Criação de BOTS
 - 🎬 Desenvolvimento de SaaS
 - 🧠Inteligência Artificial
