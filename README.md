@@ -38,10 +38,11 @@ grandes ídolos.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="Markdown" width="40" height="40"/>
 </p>
 
+
 ## Linguagens mais utilizadas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justdavinci&layout=compact&theme=radical" alt="Linguagens mais utilizadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxeder&layout=compact&theme=radical" alt="Linguagens mais utilizadas">
 </div>
 
 ## Estatísticas do GitHub
