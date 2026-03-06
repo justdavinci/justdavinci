@@ -4,11 +4,13 @@ SOU APAIXONADO POR CONHECIMENTO, por isso o "DaVinci". Uma referência a um dos 
 grandes ídolos.
 
 ## INTERESSES GERAIS:
-- ⚕️ Medicina Geral
-- 👨‍🔬 TECNOLOGIA APLICADA A CIÊNCIA
+- 🏛️ Filosofia
+- ⚕️ Medicina
+- 🧠 Cognição & Performance
+- 👨‍🔬 Tecnologia em geral...
 
 ## 🖥️ PROGRAMAÇÃO:
-🐍Python | 💻Typescript/Javascript
+💻Typescript/Javascript | 🐍Python
 
 - 🤖 Criação de BOTS
 - 🎬 Desenvolvimento de SaaS
@@ -38,12 +40,6 @@ grandes ídolos.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="Markdown" width="40" height="40"/>
 </p>
 
-
-## Linguagens mais utilizadas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justdavinci&layout=compact&theme=radical" alt="Linguagens mais utilizadas">
-</div>
 
 ## Estatísticas do GitHub
 
